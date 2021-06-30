@@ -1,0 +1,6 @@
+[20-May-2021 01:33:56 America/Boise] PHP Fatal error:  require(): Failed opening required '/home3/vbollwmy/public_html/sellright/application/libraries/REST_Controller.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/vbollwmy/public_html/sellright/application/controllers/Api.php on line 3
+[04-Jun-2021 05:30:25 America/Boise] PHP Fatal error:  Cannot use [] for reading in /home3/vbollwmy/public_html/sellright/application/controllers/Api.php on line 153
+[04-Jun-2021 05:30:41 America/Boise] PHP Fatal error:  Cannot use [] for reading in /home3/vbollwmy/public_html/sellright/application/controllers/Api.php on line 153
+[18-Jun-2021 01:14:19 America/Boise] PHP Fatal error:  Cannot use [] for reading in /home3/vbollwmy/public_html/sellright/application/views/catalogue.php on line 66
+[30-Jun-2021 04:53:35 America/Boise] PHP Fatal error:  Cannot redeclare Welcome::update_profile() in /home3/vbollwmy/public_html/sellright/application/controllers/Welcome.php on line 335
+[30-Jun-2021 04:54:35 America/Boise] PHP Fatal error:  Cannot redeclare Welcome::update_profile() in /home3/vbollwmy/public_html/sellright/application/controllers/Welcome.php on line 335

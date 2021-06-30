@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,400;1,600&display=swap');
+
+body {
+  padding: 0;
+  padding: 0;
+  color: #000;
+  background: #f1f1f1;
+  font-size: 16px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.navbar-brand.header-top img {
+  max-width: 70px;
+}
+
+.lightbox-gallery {
+  color: #000;
+  overflow-x: hidden;
+}
+
+.lightbox-gallery h2 {
+  font-weight: bold;
+  margin-bottom: 10px;
+  padding-top: 40px;
+}
+
+.lightbox-gallery .intro {
+  font-size: 16px;
+  max-width: 500px;
+  margin: 0 auto 40px;
+}
+
+.lightbox-gallery .intro p {
+  margin-bottom: 0px;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.lightbox-gallery .photos {
+  padding-bottom: 20px;
+}
+
+.lightbox-gallery .item {
+  padding-bottom: 30px;
+}
+
+.product-details {
+  padding:20px;
+  background: #fff;
+}
+
+.product-details h5 {
+  font-weight: 700;
+}
+
+p.product-price {
+  font-weight: 600;
+}
+
+.product-img {
+  width: 100%;
+  height: 300px;
+}
+
+.product-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.product-details .btn-warning {
+  color: #fff;
+  background-color: #f48e06;
+  border-color: #fff;
+}
+
+.product-details .btn {
+  font-weight: 500;
+  color: #fff;
+  border: 2px solid #fff;
+  font-size: 1.1rem;
+  border-radius: 2rem;
+  box-shadow: 0px 0px 5px #888888;
+  padding: 8px 20px;
+}
+
+@media (max-width:767px) {
+  .lightbox-gallery h2 {
+    margin-bottom: 25px;
+    padding-top: 25px;
+    font-size: 24px;
+  }
+}
